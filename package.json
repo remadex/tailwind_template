@@ -1,7 +1,7 @@
 {
-  "name": "my_project",
+  "name": "tailwind_template",
   "version": "1.0.0",
-  "description": "",
+  "description": "My tailwind template with parcel",
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html --no-cache",
