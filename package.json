@@ -8,7 +8,7 @@
     "build": "parcel build index.html --no-cache"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sébastien Cardon",
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
